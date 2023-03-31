@@ -13,5 +13,5 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Anisha | maz188445@iitd.ac.in | Indian Institute of Technology Delhi | 2018MAZ8445 |
 | 2 | Nikita | nikitagarg998@gmail.com | Central University of Rajasthan | 2019PHDMT004 |
-
+| 3 | Sarfraz | maz198787@iitd.ac.in | Indian Institute of Technology Delhi | 2019MAZ8787 |
 
