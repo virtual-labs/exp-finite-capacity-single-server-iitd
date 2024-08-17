@@ -1,0 +1,73 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the main goal of using queuing models like M/M/1/N?",
+      "answers": {
+        "a": "To minimize the average waiting time of customers",
+        "b": "To maximize the number of customers in the system",
+        "c": "To reduce the utilization factor of the service provider",
+        "d": "To increase the variability of the service time distribution"
+      },
+      "explanations": {
+        "a": "To minimize the average waiting time of customers",
+        "b": "To minimize the average waiting time of customers",
+        "c": "To minimize the average waiting time of customers",
+        "d": "To minimize the average waiting time of customers"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What happens if the arrival rate exceeds the service rate in an M/M/1/N queuing system?",
+      "answers": {
+        "a": "The waiting time increases indefinitely",
+        "b": "The system becomes unstable and breaks down",
+        "c": "The utilization factor decreases",
+        "d": "The queue capacity is exceeded and customers are turned away"
+      },
+      "explanations": {
+        "a": "The system becomes unstable and breaks down",
+        "b": "The system becomes unstable and breaks down",
+        "c": "The system becomes unstable and breaks down",
+        "d": "The system becomes unstable and breaks down"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the utilization factor in an M/M/1/N queuing model?",
+      "answers": {
+        "a": "The ratio of the arrival rate to the service rate",
+        "b": "The ratio of the service rate to the arrival rate",
+        "c": "The ratio of the arrival rate to the product of the service rate and the maximum number of customers",
+        "d": "The ratio of the service rate to the product of the arrival rate and the maximum number of customers"
+      },
+      "explanations": {
+        "a": "The ratio of the arrival rate to the product of the service rate and the maximum number of customers",
+        "b": "The ratio of the arrival rate to the product of the service rate and the maximum number of customers",
+        "c": "The ratio of the arrival rate to the product of the service rate and the maximum number of customers",
+        "d": "The ratio of the arrival rate to the product of the service rate and the maximum number of customers"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "What is the difference between an M/M/1 queuing system and an M/M/1/N queuing system?",
+      "answers": {
+        "a": "M/M/1/N has a finite queue capacity, while M/M/1 does not have a queue capacity",
+        "b": " M/M/1 has a finite queue capacity, while M/M/1/N does not have a queue capacity",
+        "c": " M/M/1 has multiple servers, while M/M/1/N has a single server",
+        "d": " M/M/1/N has multiple servers, while M/M/1 has a single server"
+      },
+      "explanations": {
+        "a": "The main difference between an M/M/1 queuing system and an M/M/1/N queuing system is that the latter has a finite queue capacity, while the former does not.",
+        "b": "The main difference between an M/M/1 queuing system and an M/M/1/N queuing system is that the latter has a finite queue capacity, while the former does not.",
+        "c": "The main difference between an M/M/1 queuing system and an M/M/1/N queuing system is that the latter has a finite queue capacity, while the former does not.",
+        "d": "The main difference between an M/M/1 queuing system and an M/M/1/N queuing system is that the latter has a finite queue capacity, while the former does not."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

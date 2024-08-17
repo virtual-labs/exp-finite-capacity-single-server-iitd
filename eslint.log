@@ -1,0 +1,29 @@
+
+/home/runner/work/exp-finite-capacity-single-server-iitd/exp-finite-capacity-single-server-iitd/experiment/simulation/js/main.js
+   66:5   warning  'blocked' is assigned a value but never used  no-unused-vars
+   97:5   warning  'google' is not defined                       no-undef
+  101:5   warning  'google' is not defined                       no-undef
+  108:16  warning  'google' is not defined                       no-undef
+  129:21  warning  'google' is not defined                       no-undef
+  172:10  warning  'startSimulation' is defined but never used   no-unused-vars
+  182:9   warning  'in_use' is assigned a value but never used   no-unused-vars
+  331:9   warning  'Ts' is assigned a value but never used       no-unused-vars
+  342:9   warning  'th_st' is assigned a value but never used    no-unused-vars
+  343:9   warning  'ex_st' is assigned a value but never used    no-unused-vars
+  361:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  367:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  373:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  386:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  402:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  406:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  410:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  414:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  418:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  422:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  435:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  439:27  warning  Use the isNaN function to compare with NaN    use-isnan
+  452:10  warning  'stopSimulation' is defined but never used    no-unused-vars
+  461:12  warning  'google' is not defined                       no-undef
+
+✖ 24 problems (0 errors, 24 warnings)
+
